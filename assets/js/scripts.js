@@ -45,11 +45,11 @@ $(document).ready(function(){
 
         $('#watch').countDown({
             targetDate: {
-                'day': 		2,
-                'month': 	2,
-                'year': 	2021,
-                'hour': 	8,
-                'min': 		19,
+                'day': 		0,
+                'month': 	0,
+                'year': 	2020,
+                'hour': 	10,
+                'min': 		0,
                 'sec': 		0
             },
             omitWeeks: true
