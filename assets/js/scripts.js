@@ -48,8 +48,8 @@ $(document).ready(function(){
                 'day': 		2,
                 'month': 	2,
                 'year': 	2021,
-                'hour': 	9,
-                'min': 		0,
+                'hour': 	8,
+                'min': 		19,
                 'sec': 		0
             },
             omitWeeks: true
